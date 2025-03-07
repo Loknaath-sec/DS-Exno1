@@ -48,7 +48,7 @@ df.describe()
 ![image](https://github.com/user-attachments/assets/4fac6198-afd3-4b6c-89aa-ca83f1f904bc)
 
 
-'''python
+```python
 df.isnull().sum()
 ```
 ![image](https://github.com/user-attachments/assets/df1fde68-af15-46af-a59c-681f56a6319a)
